@@ -1,4 +1,4 @@
-*1. Tampilan awal program*
+##1. Tampilan awal program##
 ![image](https://github.com/user-attachments/assets/91e8c64d-beac-462e-993f-ba23fd93165c)
 **2. Tampilan melakukan perubahan font size**
 ![image](https://github.com/user-attachments/assets/3c6d8c73-431a-478b-93b5-c2329fff6872)
